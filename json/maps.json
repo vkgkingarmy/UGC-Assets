@@ -1,0 +1,47 @@
+{
+  "maps": [
+    {
+      "title": "VKG Old Bermuda",
+      "image": "https://dl-live-craftland.freefiremobile.com/2c5912ea-3b54-11f1-98c7-6ab40ec6b591_10060154_65179_MAP_COVER",
+
+      "category": ["home","trending","gaming"],
+
+      "description": "Old Bermuda Battle Royale Map",
+
+      "servers": {
+        "ind": "#T00U90",
+        "oth1": "#K32S73",
+        "oth2": "#2C10T0"
+      },
+
+      "links": {
+        "youtube": "https://youtube.com/@VKG_CRAFTLAND",
+        "video": "https://youtu.be/7Cn7tEMcBow",
+        "discord": "https://discord.gg/YgBmK4gCvs",
+        "telegram": "https://t.me/VKG_CRAFTLAND"
+      }
+    },
+
+    {
+      "title": "VKG ONETAP 1V1",
+      "image": "https://dl-live-craftland.freefiremobile.com/e57cb72c-0daa-11f1-853f-ce6b02d1b332_10060154_34946_MAP_COVER",
+
+      "category": ["home","gaming"],
+
+      "description": "One Tap Custom PvP Arena",
+
+      "servers": {
+        "ind": "#T16I10",
+        "oth1": "#9B38I3",
+        "oth2": "#J11L40"
+      },
+
+      "links": {
+        "youtube": "https://youtube.com/@VKG_CRAFTLAND",
+        "video": "https://youtu.be/4GQkznpTnLU",
+        "discord": "https://discord.gg/YgBmK4gCvs",
+        "telegram": "https://t.me/VKG_CRAFTLAND"
+      }
+    }
+  ]
+}
