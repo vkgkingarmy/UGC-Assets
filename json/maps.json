@@ -1,0 +1,199 @@
+{
+  "maps": [
+    {
+      "title": "VKG Old Bermuda",
+      "image": "https://dl-live-craftland.freefiremobile.com/2c5912ea-3b54-11f1-98c7-6ab40ec6b591_10060154_65179_MAP_COVER",
+
+      "category": [
+        "home",
+        "trending",
+        "gaming"
+      ],
+
+      "description": "Old Bermuda Battle Royale",
+
+      "servers": {
+        "ind": "#T00U90",
+        "oth1": "#K32S73",
+        "oth2": "#2C10T0"
+      },
+
+      "links": {
+        "youtube": "https://youtube.com/@VKG_CRAFTLAND",
+        "video": "https://youtu.be/7Cn7tEMcBow",
+        "discord": "https://discord.gg/YgBmK4gCvs",
+        "telegram": "https://t.me/VKG_CRAFTLAND"
+      }
+    },
+
+    {
+      "title": "VKG ONETAP 1V1",
+
+      "image": "https://dl-live-craftland.freefiremobile.com/e57cb72c-0daa-11f1-853f-ce6b02d1b332_10060154_34946_MAP_COVER",
+
+      "category": [
+        "home",
+        "idk"
+      ],
+
+      "description": "One Tap Arena",
+
+      "servers": {
+        "ind": "#T16I10",
+        "oth1": "#9B38I3",
+        "oth2": "#J11L40"
+      },
+
+      "links": {
+        "youtube": "https://youtube.com/@VKG_CRAFTLAND",
+        "video": "https://youtu.be/4GQkznpTnLU",
+        "discord": "https://discord.gg/YgBmK4gCvs",
+        "telegram": "https://t.me/VKG_CRAFTLAND"
+      }
+    },
+
+        {
+      "title": "VKG Bermuda 2",
+
+      "image": "https://dl-live-craftland.freefiremobile.com/dc3b8566-59d7-11f1-acc9-96f4943a73a2_10060154_35927_MAP_COVER",
+
+      "category": [
+        "home",
+        "gaming"
+      ],
+
+      "description": "Bermuda Battle Royale",
+
+      "servers": {
+        "ind": "#Q27Y00",
+        "oth1": "#G28U23",
+        "oth2": "#D19A90"
+      },
+
+      "links": {
+        "youtube": "https://youtube.com/@VKG_CRAFTLAND",
+        "video": "https://youtu.be/4GQkznpTnLU",
+        "discord": "https://discord.gg/YgBmK4gCvs",
+        "telegram": "https://t.me/VKG_CRAFTLAND"
+      }
+    },
+
+    {
+      "title": "Right or Wrong Door",
+
+      "image": "https://dl-live-craftland.freefiremobile.com/273d40a8-1c6c-11f1-8455-1ab74844d370_10060154_34926_MAP_COVER",
+
+      "category": [
+        "home",
+        "trending"
+      ],
+
+      "description": "Challenge Door Game",
+
+      "servers": {
+        "ind": "#T17E90",
+        "oth1": "#K17M13",
+        "oth2": "#B10K60"
+      },
+
+      "links": {
+        "youtube": "https://youtube.com/@VKG_CRAFTLAND",
+        "video": "https://youtu.be/7Cn7tEMcBow",
+        "discord": "https://discord.gg/YgBmK4gCvs",
+        "telegram": "https://t.me/VKG_CRAFTLAND"
+      }
+    },
+
+    {
+      "title": "VKG Solara",
+
+      "image": "https://dl-live-craftland.freefiremobile.com/8241ee50-036b-11f1-b603-a6d036055b40_10060154_65003_MAP_COVER",
+
+      "category": [
+        "home",
+        "gaming"
+      ],
+
+      "description": "Solara Open World Map",
+
+      "servers": {
+        "ind": "#V06B00",
+        "oth1": "#S04V23",
+        "oth2": "#D03U30"
+      },
+
+      "links": {
+        "youtube": "https://youtube.com/@VKG_CRAFTLAND",
+        "video": "https://youtu.be/7Cn7tEMcBow",
+        "discord": "https://discord.gg/YgBmK4gCvs",
+        "telegram": "https://t.me/VKG_CRAFTLAND"
+      }
+    },
+
+    {
+      "title": "VKG Kalahari",
+
+      "image": "https://dl-live-craftland.freefiremobile.com/7c0632ea-ff82-11f0-b7da-c2eda7e52ae3_10060154_64988_MAP_COVER",
+
+      "category": [
+        "home",
+        "gaming"
+      ],
+
+      "description": "Kalahari Desert Map",
+
+      "servers": {
+        "ind": "#Q05N40",
+        "oth1": "#K04P93",
+        "oth2": "#D03R90"
+      },
+
+      "links": {
+        "youtube": "https://youtube.com/@VKG_CRAFTLAND",
+        "video": "https://youtu.be/7Cn7tEMcBow",
+        "discord": "https://discord.gg/YgBmK4gCvs",
+        "telegram": "https://t.me/VKG_CRAFTLAND"
+      }
+    },
+
+    {
+      "title": "VKG NeXTerra",
+
+      "image": "https://dl-live-craftland.freefiremobile.com/98b0a002-fd0b-11f0-8eb1-36638144d6d1_10060154_64931_MAP_COVER",
+
+      "category": [
+        "home",
+        "gaming"
+      ],
+
+      "description": "NeXTerra Future Map",
+
+      "servers": {
+        "ind": "#T09L90",
+        "oth1": "#S07C03",
+        "oth2": "#J06I20"
+      },
+
+      "links": {
+        "youtube": "https://youtube.com/@VKG_CRAFTLAND",
+        "video": "https://youtu.be/7Cn7tEMcBow",
+        "discord": "https://discord.gg/YgBmK4gCvs",
+        "telegram": "https://t.me/VKG_CRAFTLAND"
+      }
+    }
+  ],
+
+  "videos": [
+    {
+      "title": "🔴 LIVE NOW!",
+      "id": "4GQkznpTnLU",
+      "live": true
+    },
+
+    {
+      "title": "Craftland Tutorial",
+      "id": "7Cn7tEMcBow",
+      "live": false
+    }
+  ]
+}
