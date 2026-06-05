@@ -1,6 +1,33 @@
 {
   "maps": [
     {
+      "title": "Funny Lone Wolf",
+      "image": "https://dl-live-craftland.freefiremobile.com/5f8c657c-60f2-11f1-8dde-ae91e24c55f5_10060154_35924_MAP_COVER",
+
+      "category": [
+        "home",
+        "trending",
+       ],
+
+      "description": "Fun and chaotic 1v1 Lone Wolf battles packed with surprises and laughs.",
+
+      "servers": {
+        "ind": "#T17E90",
+        "oth1": "#9B38I3",
+        "oth2": "#J11L40"
+      },
+
+      "links": {
+        "youtube": "https://youtube.com/@VKG_CRAFTLAND",
+        "video": "https://youtu.be/7Cn7tEMcBow",
+        "discord": "https://discord.gg/YgBmK4gCvs",
+        "telegram": "https://t.me/VKG_CRAFTLAND"
+      }
+    },
+
+    {
+  "maps": [
+    {
       "title": "VKG Old Bermuda",
       "image": "https://dl-live-craftland.freefiremobile.com/2c5912ea-3b54-11f1-98c7-6ab40ec6b591_10060154_65179_MAP_COVER",
 
