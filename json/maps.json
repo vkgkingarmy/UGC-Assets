@@ -15,7 +15,7 @@
       },
       "links": {
         "youtube": "https://youtube.com/@VKG_CRAFTLAND",
-        "video": "https://youtu.be/7Cn7tEMcBow",
+        "video": "https://youtube.com/shorts/h9PnLR2LLHM?feature=share",
         "discord": "https://discord.gg/YgBmK4gCvs",
         "telegram": "https://t.me/VKG_CRAFTLAND"
       }
@@ -167,6 +167,11 @@
       "title": "🔴 LIVE NOW!",
       "id": "4GQkznpTnLU",
       "live": true
+    },
+    {
+      "title": "Funny Lone Wolf",
+      "id": "h9PnLR2LLHM",
+      "live": false
     },
     {
       "title": "Craftland Tutorial",
