@@ -21,6 +21,27 @@
       }
     },
     {
+      "title": "2v2",
+      "image": "https://dl-live-craftland.freefiremobile.com/239bf12e-64dd-11f1-90f6-ae91e24c55f5_10060154_65634_MAP_COVER",
+      "category": [
+        "home",
+        "trending",
+        "gaming"
+      ],
+      "description": "ONE TAP MAP 2V2",
+      "servers": {
+        "ind": "#T00U90",
+        "oth1": "#K32S73",
+        "oth2": "#2C10T0"
+      },
+      "links": {
+        "youtube": "https://youtube.com/@VKG_CRAFTLAND",
+        "video": "https://youtu.be/7Cn7tEMcBow",
+        "discord": "https://discord.gg/YgBmK4gCvs",
+        "telegram": "https://t.me/VKG_CRAFTLAND"
+      }
+    },
+    {
       "title": "VKG Old Bermuda 2",
       "image": "https://dl-live-craftland.freefiremobile.com/239bf12e-64dd-11f1-90f6-ae91e24c55f5_10060154_65634_MAP_COVER",
       "category": [
