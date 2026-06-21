@@ -1,6 +1,27 @@
 {
   "maps": [
     {
+  "title": "VKG Lone Wolf",
+  "image": "https://dl-live-craftland.freefiremobile.com/5d182060-6d7c-11f1-9f48-ea1e8ecb6413_10060154_65829_MAP_COVER",
+  "category": [
+    "home",
+    "IDK",
+    "gaming"
+  ],
+  "description": "VKG Lone Wolf Arena",
+  "servers": {
+    "ind": "##Z43Y60",
+    "oth1": "#K17M13",
+    "oth2": "#J18X20"
+  },
+  "links": {
+    "youtube": "https://youtube.com/@VKG_CRAFTLAND",
+    "video": "https://youtube.com/shorts/h9PnLR2LLHM?feature=share",
+    "discord": "https://discord.gg/YgBmK4gCvs",
+    "telegram": "https://t.me/VKG_CRAFTLAND"
+  }
+},
+    {
       "title": "Funny Lone Wolf",
       "image": "https://dl-live-craftland.freefiremobile.com/5f8c657c-60f2-11f1-8dde-ae91e24c55f5_10060154_35924_MAP_COVER",
       "category": [
