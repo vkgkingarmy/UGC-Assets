@@ -1980,8 +1980,63 @@
     "object": "box"
   },
   {
-    "name": "box",
+    "name": "WS_VFX_NB_UGC_REVIVEPOINT_RUNE_GROUND",
     "id": 9001,
-    "object": "box"
+    "object": "VFX"
   },
+  {
+    "name": "WS_VFX_NB_UGC_RUSHSKILL1_PREPARE_HAND",
+    "id": 9002,
+    "object": "VFX"
+  },
+  {
+    "name": "WS_VFX_NB_UGC_RUSHSKILL1_RUSH_HAND",
+    "id": 9003,
+    "object": "VFX"
+  },
+  {
+    "name": "WS_VFX_NB_UGC_RUSHSKILL2_RUSH_HAND",
+    "id": 9004,
+    "object": "VFX"
+  },
+  {
+    "name": "WS_VFX_NB_UGC_RUSHSKILL3_PREPARE_HAND",
+    "id": 9005,
+    "object": "VFX"
+  },
+  {
+    "name": "WS_VFX_NB_UGC_SPITSKILL1_FLY_GLOOWALL",
+    "id": 9006,
+    "object": "VFX"
+  },
+  {
+    "name": "WS_VFX_NB_UGC_SPITSKILL2_FLY_GLOOWALL",
+    "id": 9007,
+    "object": "VFX"
+  },
+  {
+    "name": "WS_VFX_NB_UGC_SPITSKILL2_FLYPATH",
+    "id": 9008,
+    "object": "VFX"
+  },
+  {
+    "name": "WS_VFX_NB_UGC_SPITSKILL3_FLY_GLOOWALL",
+    "id": 9009,
+    "object": "VFX"
+  },
+  {
+    "name": "WS_VFX_NB_UGC_SPITSKILL3_FLYPATH",
+    "id": 9010,
+    "object": "VFX"
+  },
+  {
+    "name": "WS_VFX_NB_UGC_ORANGEFOX_BULLETBALL",
+    "id": 9011,
+    "object": "VFX"
+  },
+  {
+    "name": "WS_VFX_NB_UGC_ORANGEFOX_BULLETBALL",
+    "id": 9012,
+    "object": "VFX"
+  }
 ]
