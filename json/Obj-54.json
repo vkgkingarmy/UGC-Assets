@@ -1,1983 +1,1963 @@
 [
   {
-    "name": "Square box",
+    "name": "WS_EMPTY",
+    "id": 10000,
+    "object": "VFX"
+  },
+  {
+    "name": "WS_EMPTY",
+    "id": 10001,
+    "object": "VFX"
+  },
+  {
+    "name": "WS_EMPTY",
+    "id": 10002,
+    "object": "VFX"
+  },
+  {
+    "name": "WS_Wooden_box_v1_LD1square",
     "id": 1,
-    "object": "Containers & Boxes"
+    "object": "Props"
   },
   {
-    "name": "Long Box",
+    "name": "WS_Wooden_box_v1_LD1",
     "id": 2,
-    "object": "Containers & Boxes"
+    "object": "Props"
   },
   {
-    "name": "Shrub",
+    "name": "WS_Common_Parterre001",
     "id": 3,
-    "object": "Plants"
+    "object": "Props"
   },
   {
-    "name": "Haystack",
+    "name": "WS_haystack_01",
     "id": 4,
-    "object": "Miscellaneous"
+    "object": "Props"
   },
   {
-    "name": "Car",
+    "name": "WS_Vehicle_Damage_01",
     "id": 5,
-    "object": "Miscellaneous"
+    "object": "Vehicle"
   },
   {
-    "name": "Bus",
+    "name": "WS_Vehicle_Van_02",
     "id": 6,
-    "object": "Miscellaneous"
+    "object": "Vehicle"
   },
   {
-    "name": "Containers A",
+    "name": "WS_Container001",
     "id": 7,
-    "object": "Containers & Boxes"
+    "object": "Props"
   },
   {
-    "name": "Containers B",
+    "name": "WS_Container002",
     "id": 8,
-    "object": "Containers & Boxes"
+    "object": "Props"
   },
   {
-    "name": "Containers C",
+    "name": "WS_Container003",
     "id": 9,
-    "object": "Containers & Boxes"
+    "object": "Props"
   },
   {
-    "name": "Hut",
+    "name": "WS_House_E",
     "id": 10,
-    "object": "Small Bulidings"
+    "object": "Props"
   },
   {
-    "name": "Guard Tower",
+    "name": "WS_Military_outpost",
     "id": 11,
-    "object": "Small Bulidings"
+    "object": "Props"
   },
   {
-    "name": "Outpost",
+    "name": "WS_House_D",
     "id": 12,
-    "object": "Small Bulidings"
+    "object": "Props"
   },
   {
-    "name": "House B",
+    "name": "WS_House_C",
     "id": 14,
-    "object": "Mid-Sized Buildings"
+    "object": "Props"
   },
   {
-    "name": "Sand Structure",
+    "name": "WS_Loveisland_Sandsculpture",
     "id": 16,
-    "object": "Outdoor Items"
+    "object": "Props"
   },
   {
-    "name": "Fountain",
+    "name": "WS_Fountain",
     "id": 17,
-    "object": "Outdoor Items"
+    "object": "Props"
   },
   {
-    "name": "Cherry Blossom",
+    "name": "WS_Sakura_Big_Tree",
     "id": 18,
-    "object": "Plants"
+    "object": "Props"
   },
   {
-    "name": "House A",
+    "name": "WS_House_A2",
     "id": 19,
-    "object": "Small Bulidings"
+    "object": "Props"
   },
   {
-    "name": "House C",
+    "name": "WS_House_B2",
     "id": 20,
-    "object": "Mid-Sized Buildings"
+    "object": "Props"
   },
   {
-    "name": "Banana Tree",
+    "name": "WS_Shrub_BananaLeaf_001",
     "id": 21,
-    "object": "Plants"
+    "object": "Props"
   },
   {
-    "name": "Toilet Bowl",
+    "name": "WS_Bathroom_Toilet",
     "id": 22,
-    "object": "Indoor Furniture"
+    "object": "Props"
   },
   {
-    "name": "Fence",
+    "name": "WS_Common_White",
     "id": 23,
-    "object": "Fence"
+    "object": "Props"
   },
   {
-    "name": "Rugged Container",
+    "name": "WS_Breakable_Container",
     "id": 24,
-    "object": "Interactives"
+    "object": "Props"
   },
   {
-    "name": "Rugged Fence",
+    "name": "WS_Breakable_Common_White",
     "id": 25,
-    "object": "Fence"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_BirthFlag_Red",
+    "id": 26,
+    "object": "Props"
+  },
+  {
+    "name": "WS_BirthFlag_Blue",
+    "id": 27,
+    "object": "Props"
+  },
+  {
+    "name": "WS_S_BounceTire",
     "id": 28,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_S_BounceTire_fixedA",
     "id": 29,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_S_BounceTire_fixedB",
     "id": 30,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_S_BounceTire_fixedC",
     "id": 31,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Vehicle_Bumper",
     "id": 32,
-    "object": "box"
+    "object": "Vehicle"
   },
   {
-    "name": "box",
+    "name": "WS_Vehicle_Amphibian",
     "id": 33,
-    "object": "box"
+    "object": "Vehicle"
   },
   {
-    "name": "box",
+    "name": "WS_Vehicle_Jeep",
     "id": 34,
-    "object": "box"
+    "object": "Vehicle"
   },
   {
-    "name": "box",
+    "name": "WS_Common_Trash001",
     "id": 35,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Racetrack_Station002",
     "id": 36,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Group_Racetrack_Tent002",
     "id": 37,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Nuc_House003",
     "id": 38,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Common_Wall001",
     "id": 39,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Shimada_Wooden005",
     "id": 40,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Wharf_Platform001",
     "id": 41,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Group_TrailerHouse_B",
     "id": 42,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Group_TrailerHouse_C",
     "id": 43,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_BrokenWall001",
     "id": 44,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_BrokenWall002",
     "id": 45,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_BrokenWall003",
     "id": 46,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_BrokenWall004",
     "id": 47,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_BrokenWall005",
     "id": 48,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_BrokenWall006",
     "id": 49,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_portal",
+    "id": 50,
+    "object": "Props"
+  },
+  {
+    "name": "WS_MusicKey_Piano001",
     "id": 51,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_MusicKey_Piano002",
     "id": 52,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_MusicKey_Drum001",
     "id": 53,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_MusicKey_Drum002",
     "id": 54,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_MusicKey_LeadA001",
     "id": 55,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_MusicKey_LeadA002",
     "id": 56,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_MusicKey_LeadB001",
     "id": 57,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_MusicKey_LeadB002",
     "id": 58,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_MusicKey_LeadC001",
     "id": 59,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_MusicKey_LeadC002",
     "id": 60,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_BuffGenerator",
     "id": 61,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_ROTATE",
     "id": 62,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_PAN",
     "id": 63,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_CURB",
     "id": 64,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_SEMICIRCLE",
     "id": 65,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_HAMMER",
     "id": 66,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_PLANE",
     "id": 67,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TARGET",
     "id": 68,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_WALL",
     "id": 69,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_LOOTWEAPON",
     "id": 70,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_LOOTAMMO",
     "id": 71,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_LOOTCO",
     "id": 72,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_LOOTJA",
     "id": 73,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_LOOTAR",
     "id": 74,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_LOOTTE",
     "id": 75,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_PIPE",
     "id": 76,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_PIPE_T",
     "id": 77,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_PIPE_CROSS",
     "id": 78,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_PIPE_CORNER",
     "id": 79,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_MUSHROOM",
     "id": 80,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_HANGER",
     "id": 81,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_PIECEBRIDGE",
     "id": 82,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_SCREEN",
     "id": 83,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_CONCRETEPILLAR",
     "id": 84,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_CACTUS",
     "id": 85,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_OLDTREE",
     "id": 86,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_LANTERN",
     "id": 87,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_LAMP",
     "id": 88,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_SOLARPANEL",
     "id": 89,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_AIRCONDITIONER",
     "id": 90,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_BASICCUBE",
     "id": 91,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_BASICSLOPE",
     "id": 92,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_SPAWNAREA",
     "id": 93,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_SPAWNAREALARGE",
     "id": 94,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_DINNERCAR",
     "id": 95,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TRIGGER",
     "id": 96,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TRIGGER_MESH_CHECKPOINT",
     "id": 97,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TRIGGER_MESH_TERMINUS",
     "id": 98,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_DICE",
     "id": 99,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_BENCH",
     "id": 100,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_BUSSTATION",
     "id": 101,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_DOGHOUSE",
     "id": 102,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_LEDBOARD",
     "id": 103,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_REFINERYTANK",
     "id": 104,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_SCRAWLBOARD",
     "id": 105,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_STABLER",
     "id": 106,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_STONEBRIDGE",
     "id": 107,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_UMBRELLA",
     "id": 108,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TERMINUSLINE",
     "id": 109,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_UGCMINISENTRY",
     "id": 110,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_BOTGENERATOR",
     "id": 111,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_UGCCUSTOM_PATH",
     "id": 112,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_POINTPICKER",
     "id": 113,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_FORT",
     "id": 114,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_UGCCUSTOM_POINT",
     "id": 115,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_LOOTALL",
     "id": 116,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TRIGGER_CUSTOM",
     "id": 117,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_NewBlast_Door",
     "id": 118,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Roadblock",
     "id": 119,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Stair",
     "id": 120,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Stair_L",
     "id": 121,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Stair_Z",
     "id": 122,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TelephoneBooth",
     "id": 123,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Bis_Wall",
     "id": 124,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Bis_Parterre",
     "id": 125,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_VendingMachine",
     "id": 126,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_ZombieAI",
     "id": 127,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_AIGenerator",
     "id": 128,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Vehicle_Roadster",
     "id": 129,
-    "object": "box"
+    "object": "Vehicle"
   },
   {
-    "name": "box",
+    "name": "WS_Vehicle_Tutu",
     "id": 130,
-    "object": "box"
+    "object": "Vehicle"
   },
   {
-    "name": "box",
+    "name": "WS_Breakable_Box",
     "id": 131,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Vehicle_SUV",
     "id": 132,
-    "object": "box"
+    "object": "Vehicle"
   },
   {
-    "name": "box",
+    "name": "WS_Vehicle_Motobike",
     "id": 133,
-    "object": "box"
+    "object": "Vehicle"
   },
   {
-    "name": "box",
+    "name": "WS_Vehicle_Monster_Truck",
     "id": 134,
-    "object": "box"
+    "object": "Vehicle"
   },
   {
-    "name": "box",
+    "name": "WS_CoinGenerator",
     "id": 135,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Stair_I",
     "id": 136,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Arrow",
     "id": 137,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Fence",
     "id": 138,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Custom_Jersey",
     "id": 139,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Custom_Soccer",
     "id": 140,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Pillar",
     "id": 141,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_SocialArea_Goal",
     "id": 142,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_SPAWNAREA_NEW",
     "id": 143,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_SNOWMAN",
     "id": 144,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_GiftBox",
     "id": 145,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_CoconutTree",
     "id": 146,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Bougainvillea",
     "id": 147,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Bushcover",
     "id": 148,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_FishingVillage_Barrel001",
     "id": 149,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Roadblock001",
     "id": 150,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_YellowDuck001",
     "id": 151,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_pumpkinCut",
     "id": 152,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_LowWall",
     "id": 153,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_House_Huge_A",
     "id": 154,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Building_HouseD",
     "id": 155,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Book001",
     "id": 156,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Computer001",
     "id": 157,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Pumpkin",
     "id": 158,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_JackStraw",
     "id": 159,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Cabinet001",
     "id": 160,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Cargo_PackBox",
     "id": 161,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Sofa001",
     "id": 162,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Table001",
     "id": 163,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Box001",
     "id": 164,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Wood001",
     "id": 165,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_SupplyBox001",
     "id": 166,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Target001",
     "id": 167,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_FireEquipment001",
     "id": 168,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Table002",
     "id": 169,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Fusion_Toolrack001",
     "id": 170,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Barren_Storagebox001",
     "id": 171,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Fusion_Oildrum001",
     "id": 172,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Reform_Guidepost001",
     "id": 173,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Reform_Baffle001",
     "id": 174,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Ladder001",
     "id": 175,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Racetrack_Tires001",
     "id": 176,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_AirConditioner001",
     "id": 177,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_AmmunitionChest001",
     "id": 178,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Shelf001",
     "id": 179,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_LudoGame",
     "id": 180,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Ornament001",
     "id": 181,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Chair001",
     "id": 182,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Shimada_Signboard001",
     "id": 183,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_LOOTSOCCER",
     "id": 184,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TELEPORT_NEW",
     "id": 185,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TELEPORT_END_NEW",
     "id": 186,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_OILDRUM",
     "id": 187,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_LOWGRAVITY",
     "id": 188,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_WeaponGenerator",
     "id": 189,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_CAMERA",
     "id": 190,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Fence02",
     "id": 191,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Enterance_House01",
     "id": 192,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Vehicle_Damage_02",
     "id": 193,
-    "object": "box"
+    "object": "Vehicle"
   },
   {
-    "name": "box",
+    "name": "WS_Bonfire",
     "id": 194,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Sofa002",
     "id": 195,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_light01",
     "id": 196,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TV",
     "id": 197,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Cannon001",
     "id": 198,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TownHouse",
     "id": 199,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Candle001",
     "id": 200,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Doll001",
     "id": 201,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Fireworks_01",
     "id": 202,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_LoveLamp",
     "id": 203,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_LoveLightSign",
     "id": 204,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Rose_02",
     "id": 205,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_RoseN",
     "id": 206,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_LoveBalloon",
     "id": 207,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_PresentEffectGenerator",
     "id": 208,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_SPHERE",
     "id": 209,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_PeekabooBush",
     "id": 210,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_CONE",
     "id": 211,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_CYLINDER",
     "id": 212,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_WeaponGenerator",
     "id": 213,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "UNKNOWN",
     "id": 214,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_CustomWater",
     "id": 215,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_STROPSHELF",
     "id": 216,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_PointLight",
     "id": 217,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_Arrow002",
     "id": 218,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
-    "id": 219,
-    "object": "box"
-  },
-  {
-    "name": "box",
+    "name": "WS_COLORFULCUBE",
     "id": 220,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_COLORFULDRUM",
     "id": 221,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TEXT",
     "id": 222,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_ICON",
     "id": 223,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_PresentEffectGenerator",
     "id": 224,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_ICEDANCE_DOLL",
     "id": 225,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_FERRIS",
     "id": 226,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_PresentEffectGenerator",
     "id": 227,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_CITYBUILDING001_DOWN",
     "id": 228,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_CITYBUILDING001_MIDDLE",
     "id": 229,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_CITYBUILDING001_TOP",
     "id": 230,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_CITYBUILDING002_DOWN",
     "id": 231,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_CITYBUILDING002_MIDDLE",
     "id": 232,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_CITYBUILDING002_TOP",
     "id": 233,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_CITYBUILDING003_DOWN",
     "id": 234,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_CITYBUILDING003_MIDDLE",
     "id": 235,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_CITYBUILDING003_TOP",
     "id": 236,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TRIGGER_CAPSULE",
     "id": 237,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TRIGGER_SPHERE",
     "id": 238,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_NewBasicCube001",
     "id": 239,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_PARKBUILDING001",
     "id": 240,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_NewBasicCube002",
     "id": 241,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_CITYBUILDING004_DOWN",
     "id": 242,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_CITYBUILDING004_MIDDLE",
     "id": 243,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_CITYBUILDING004_TOP",
     "id": 244,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_CITYBUILDING005_DOWN",
     "id": 245,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_CITYBUILDING005_MIDDLE",
     "id": 246,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_CITYBUILDING005_TOP",
     "id": 247,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_PARK_CAROUSEL001",
     "id": 248,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_PARK_CAROUSEL002",
     "id": 249,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_PARK_CAROUSEL003",
     "id": 250,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_FACTORY_BUILDING001",
     "id": 251,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_DOLLMACHINE001",
     "id": 252,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_RACETRACK_SCREEN",
     "id": 253,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_RACETRACK_PODIUM001",
     "id": 254,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_CAROUSEL001",
     "id": 255,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_PUBLIC_BOOTH001",
     "id": 256,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "MODEL_METROPOLIS_CASH",
     "id": 257,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "MODEL_METROPOLIS_DCOIN",
     "id": 258,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "MODEL_METROPOLIS_GOLDPACK",
     "id": 259,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "MODEL_METROPOLIS_TREASURE",
     "id": 260,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "MODEL_METROPOLIS_OPERATINGFLOOR",
     "id": 261,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_SNOW_STEELPLATE001",
     "id": 262,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_SNOW_CONTAINER001",
     "id": 263,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_SNOW_BOX001",
     "id": 264,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_SNOW_DOORPLANK001",
     "id": 265,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_SNOW_CONTAINER002",
     "id": 266,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_SNOW_STONE001",
     "id": 267,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_SNOW_STONE002",
     "id": 268,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_SNOW_STONE003",
     "id": 269,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_SNOW_STONE004",
     "id": 270,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_SUBWAY001",
     "id": 271,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_UAV",
     "id": 272,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_BASICPLANE",
     "id": 273,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_AUDIO001",
     "id": 274,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_FUEL_CONTAINER001",
     "id": 275,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_SANDBAGS001",
     "id": 276,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_SANDBAGS002",
     "id": 277,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_SANDBAGS003",
     "id": 278,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_SANDBAGS004",
     "id": 279,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_MANSION001",
     "id": 280,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_GUNFACTORY001",
     "id": 281,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_MILITARY_WALL001",
     "id": 282,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_MILITARY_WALL002",
     "id": 283,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_MILITARY_WALL003",
     "id": 284,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_MILITARY_WALL004",
     "id": 285,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_MILITARYBOX001",
     "id": 286,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_CURRENCY001",
     "id": 287,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_CURRENCY002",
     "id": 288,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_CURRENCY003",
     "id": 289,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_CURRENCY004",
     "id": 290,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_CURRENCY005",
     "id": 291,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_CURRENCY006",
     "id": 292,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_CURRENCY007",
     "id": 293,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_CURRENCY008",
     "id": 294,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_WARNINGSIGN",
     "id": 295,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_CLOCK",
     "id": 296,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_PROCESSOR001",
     "id": 297,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_CHEST_COLLECTION001",
     "id": 298,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_FROZENSNOW001",
     "id": 299,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_METALWALL001",
     "id": 300,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_METALWALL002",
     "id": 301,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_SNOW_STONE005",
     "id": 302,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_SNOW_STONE006",
     "id": 303,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_BIGPLATFORM001",
     "id": 304,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_STAIRS001",
     "id": 305,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_LIGHT001",
     "id": 306,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_RUINS_METALPLATE001",
     "id": 307,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_RUINS_METALPLATE003",
     "id": 308,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_RUINS_PILLAR001",
     "id": 309,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_RUINS_ROCK001",
     "id": 310,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_RUINS_ROCK002",
     "id": 311,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_RUINS_ROCK006",
     "id": 312,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_RUINS_SEARCHLIGHT001",
     "id": 313,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_RUINS_STEELPIPE001",
     "id": 314,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TOILETMAN",
     "id": 315,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_GOLDTOILETMAN",
     "id": 316,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_AIRDROP",
     "id": 317,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TRIGGER_ANIMATION",
     "id": 318,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TECHNOLOGYCP_WALL001",
     "id": 319,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TECHNOLOGYCP_WALL002",
     "id": 320,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TECHNOLOGYCP_WINDOW001",
     "id": 321,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TECHNOLOGYCP_DOOR001",
     "id": 322,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TECHNOLOGYCP_ROOF001",
     "id": 323,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TECHNOLOGYCP_ROOF002",
     "id": 324,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TECHNOLOGYCP_BASEBOARD001",
     "id": 325,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TECHNOLOGYCP_BASEBOARD002",
     "id": 326,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TECHNOLOGYCP_STAIR001",
     "id": 327,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TECHNOLOGYCP_LED001",
     "id": 328,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TECHNOLOGY_BUILDING001",
     "id": 329,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TECHNOLOGY_BUILDING002",
     "id": 330,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TECHNOLOGY_DEVICE001",
     "id": 331,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TECHNOLOGY_STONE001",
     "id": 332,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TECHNOLOGY_SCREEN001",
     "id": 333,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TECHNOLOGY_CHEST002",
     "id": 334,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TECHNOLOGY_CONTAINER001",
     "id": 335,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TECHNOLOGY_SOFA001",
     "id": 336,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TECHNOLOGY_SWITCHES001",
     "id": 337,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TECHNOLOGY_PIPELINE001",
     "id": 338,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TECHNOLOGY_STEELPLATE001",
     "id": 339,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TECHNOLOGY_TABLE001",
     "id": 340,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TECHNOLOGY_TABLE002",
     "id": 341,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TECHNOLOGY_DESK002",
     "id": 342,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TECHNOLOGY_COMPUTER001",
     "id": 343,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_NORMAL_STONE001",
     "id": 344,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_NORMAL_STONE002",
     "id": 345,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_NORMAL_STONE003",
     "id": 346,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_NORMAL_STONE004",
     "id": 347,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_NORMAL_STONE005",
     "id": 348,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_NORMAL_STONE006",
     "id": 349,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_NORMAL_STONE007",
     "id": 350,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_JAPANESE_CLOTH001",
     "id": 351,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_JAPANESE_CLOTH002",
     "id": 352,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_JAPANESE_CLOTH003",
     "id": 353,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_JAPANESE_WOODEN001",
     "id": 354,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_JAPANESE_WOODEN002",
     "id": 355,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_JAPANESE_WOODEN003",
     "id": 356,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_JAPANESE_WOODEN004",
     "id": 357,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_JAPANESE_WOODEN005",
     "id": 358,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_JAPANESE_WALL001",
     "id": 359,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_JAPANESE_PORCH001",
     "id": 360,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TECHNOLOGYCP_WALL003",
     "id": 361,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TECHNOLOGYCP_WALL004",
     "id": 362,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_TECHNOLOGYCP_BASEBOARD003",
     "id": 363,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_ERADICATECIRCLE",
     "id": 364,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_ERADICATECIRCLEEND",
     "id": 365,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_MilitaryCP1_Wall001",
     "id": 366,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_MilitaryCP1_Wall002",
     "id": 367,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_MilitaryCP1_Wall005",
     "id": 368,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_MilitaryCP1_Wall006",
     "id": 369,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_MilitaryCP1_Window001",
     "id": 370,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_MilitaryCP1_Window002",
     "id": 371,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_MilitaryCP1_CloseWindow001",
     "id": 372,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_MilitaryCP1_Door001",
     "id": 373,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_MilitaryCP1_Door002",
     "id": 374,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_MilitaryCP1_Roof001",
     "id": 375,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_MilitaryCP1_Roof004",
     "id": 376,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_MilitaryCP1_Stair001",
     "id": 377,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_MilitaryCP1_Stair002",
     "id": 378,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_MilitaryCP1_Pillar001",
     "id": 379,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_MilitaryCP1_Handrail001",
     "id": 380,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_BASICSQUAREPYRAMID",
     "id": 381,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_BASICTRIANGULARPYRAMID",
     "id": 382,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_BASICQUARTER_CYLINDER",
     "id": 383,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_BASICTORUS",
     "id": 384,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_BASICHEMISPHERICALSHELL",
     "id": 385,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_DONKEYCART",
     "id": 386,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_CLIMBINGTRIGGER",
     "id": 387,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_EMPTY",
     "id": 388,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_VEHICLE_HELICOPTER",
     "id": 389,
-    "object": "box"
+    "object": "Vehicle"
   },
   {
-    "name": "box",
+    "name": "WS_SPOTLIGHT",
     "id": 390,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_CUSTOM_PATH_WP",
     "id": 391,
-    "object": "box"
+    "object": "Props"
   },
   {
-    "name": "box",
+    "name": "WS_CUSTOM_PATH_CURVE",
     "id": 392,
-    "object": "box"
-  },
-  {
-    "name": "box",
-    "id": 393,
-    "object": "box"
-  },
-  {
-    "name": "box",
-    "id": 394,
-    "object": "box"
-  },
-  {
-    "name": "box",
-    "id": 395,
-    "object": "box"
-  },
-  {
-    "name": "box",
-    "id": 396,
-    "object": "box"
-  },
-  {
-    "name": "box",
-    "id": 397,
-    "object": "box"
-  },
-  {
-    "name": "box",
-    "id": 398,
-    "object": "box"
-  },
-  {
-    "name": "box",
-    "id": 399,
-    "object": "box"
-  },
-  {
-    "name": "box",
-    "id": 400,
-    "object": "box"
-  },
-  {
-    "name": "box",
-    "id": 401,
-    "object": "box"
+    "object": "Props"
   },
   {
     "name": "WS_VFX_NB_UGC_REVIVEPOINT_RUNE_GROUND",
@@ -2038,5 +2018,50 @@
     "name": "WS_VFX_NB_UGC_ORANGEFOX_BULLETBALL",
     "id": 9012,
     "object": "VFX"
+  },
+  {
+    "name": "WS_BASICCUSTOMSURFACE",
+    "id": 393,
+    "object": "Props"
+  },
+  {
+    "name": "WS_BASICHEMISPHERE",
+    "id": 394,
+    "object": "Props"
+  },
+  {
+    "name": "WS_BASICQUARTERTORUS",
+    "id": 395,
+    "object": "Props"
+  },
+  {
+    "name": "WS_BASICROUNDEDTORUS",
+    "id": 396,
+    "object": "Props"
+  },
+  {
+    "name": "WS_BASICQUARTERROUNDEDTORUS",
+    "id": 397,
+    "object": "Props"
+  },
+  {
+    "name": "WS_BASICQQUARTERCYLINDERCUTOUT",
+    "id": 398,
+    "object": "Props"
+  },
+  {
+    "name": "WS_BASICTRIANGLE",
+    "id": 399,
+    "object": "Props"
+  },
+  {
+    "name": "WS_BASIC_CAMERA",
+    "id": 400,
+    "object": "Props"
+  },
+  {
+    "name": "WS_VEHICLE_HORSE",
+    "id": 401,
+    "object": "Vehicle"
   }
 ]
