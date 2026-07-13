@@ -1,6 +1,27 @@
 {
   "maps": [
     {
+  "title": "Right or Wrong Door V2",
+  "image": "https://dl-live-craftland.freefiremobile.com/273d40a8-1c6c-11f1-8455-1ab74844d370_10060154_34926_MAP_COVER",
+  "category": [
+    "home",
+    "trending",
+    "gaming"
+  ],
+  "description": "New Version of the Challenge Door Game with updated questions and OB54 content.",
+  "servers": {
+    "ind": "#Q05N40",
+    "oth1": "#9H07Q3",
+    "oth2": "#N27M90"
+  },
+  "links": {
+    "youtube": "https://youtube.com/@VKG_CRAFTLAND",
+    "video": "https://youtu.be/7Cn7tEMcBow",
+    "discord": "https://discord.gg/YgBmK4gCvs",
+    "telegram": "https://t.me/VKG_CRAFTLAND"
+  }
+}
+    {
   "title": "VKG Lone Wolf",
   "image": "https://dl-live-craftland.freefiremobile.com/5d182060-6d7c-11f1-9f48-ea1e8ecb6413_10060154_65829_MAP_COVER",
   "category": [
