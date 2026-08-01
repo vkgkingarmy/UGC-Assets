@@ -43,7 +43,7 @@
     },
     {
       "title": "VKG Bermuda MAX",
-      "image": "https://dl-ind-production.freefiremobile.com/EAF6E31C740A8F481BCB_3232611920_10_1781103699_4.JPEG",
+      "image": "https://dl-live-craftland.freefiremobile.com/9f875efc-8dbb-11f1-b0c5-068bedd4bcca_10060154_66482_MAP_COVER",
       "category": [
         "home",
         "trending",
@@ -51,9 +51,9 @@
       ],
       "description": "VKG Bermuda MAX | Battle Royale Experience",
       "servers": {
-        "ind": "#T00U90",
+        "ind": "#Q31C80",
         "oth1": "#K32S73",
-        "oth2": "#2C10T0"
+        "oth2": "#2A60Z0"
       },
       "links": {
         "youtube": "https://youtube.com/@VKG_CRAFTLAND",
