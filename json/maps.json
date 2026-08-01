@@ -10,7 +10,7 @@
   ],
   "description": "VKG Lone Wolf Arena",
   "servers": {
-    "ind": "##Z43Y60",
+    "ind": "#Z43Y60",
     "oth1": "#K17M13",
     "oth2": "#J18X20"
   },
@@ -42,8 +42,29 @@
       }
     },
     {
-      "title": "VKG Old Bermuda 2",
+      "title": "test",
       "image": "https://dl-ind-production.freefiremobile.com/EAF6E31C740A8F481BCB_3232611920_10_1781103699_4.JPEG",
+      "category": [
+        "home",
+        "trending",
+        "gaming"
+      ],
+      "description": "Old Bermuda Battle Royale",
+      "servers": {
+        "ind": "#T00U90",
+        "oth1": "#K32S73",
+        "oth2": "#2C10T0"
+      },
+      "links": {
+        "youtube": "https://youtube.com/@VKG_CRAFTLAND",
+        "video": "https://youtu.be/7Cn7tEMcBow",
+        "discord": "https://discord.gg/YgBmK4gCvs",
+        "telegram": "https://t.me/VKG_CRAFTLAND"
+      }
+    },
+    {
+      "title": "VKG Old Bermuda 2",
+      "image": "https://dl-live-craftland.freefiremobile.com/7ea0d0b0-7623-11f1-84ff-ce15c7125e17_10060154_65986_MAP_COVER",
       "category": [
         "home",
         "trending",
