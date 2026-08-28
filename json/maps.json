@@ -115,7 +115,7 @@
     },
     {
       "title": "ONETAP MAP 2V2",
-      "image": "https://dl-live-craftland.freefiremobile.com/472134ae-6a5c-11f1-bbe3-92db1752272e_10060154_65835_MAP_COVER",
+      "image": "https://raw.githubusercontent.com/vkgkingarmy/UGC-Assets/refs/heads/main/Map%20Code%20Website/ONE%20TAP.png",
       "category": [
         "home",
         "idk"
@@ -124,7 +124,7 @@
       "servers": {
         "ind": "#T16I10",
         "oth1": "#S39T03",
-        "oth2": "IDK ,Contact VKG"
+        "oth2": "#B37N00"
       },
       "links": {
         "youtube": "https://youtube.com/@VKG_CRAFTLAND",
@@ -133,7 +133,7 @@
         "telegram": "https://t.me/VKG_CRAFTLAND"
       },
       "isNew": false,
-      "isUpdate": false
+      "isUpdate": true
     },
     {
       "title": "VKG Bermuda 2",
