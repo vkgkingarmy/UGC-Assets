@@ -3,11 +3,7 @@
     {
       "title": "VKG Lone Wolf",
       "image": "https://dl-live-craftland.freefiremobile.com/5d182060-6d7c-11f1-9f48-ea1e8ecb6413_10060154_65829_MAP_COVER",
-      "category": [
-        "home",
-        "IDK",
-        "gaming"
-      ],
+      "category": ["home", "idk", "gaming"],
       "description": "VKG Lone Wolf Arena",
       "servers": {
         "ind": "#Z43Y60",
@@ -26,10 +22,7 @@
     {
       "title": "Funny Lone Wolf",
       "image": "https://dl-live-craftland.freefiremobile.com/5f8c657c-60f2-11f1-8dde-ae91e24c55f5_10060154_35924_MAP_COVER",
-      "category": [
-        "home",
-        "trending"
-      ],
+      "category": ["home", "trending"],
       "description": "Fun and chaotic 2v2 Lone Wolf battles packed with surprises and laughs.",
       "servers": {
         "ind": "#T17E90",
@@ -48,11 +41,7 @@
     {
       "title": "VKG Bermuda MAX",
       "image": "https://dl-live-craftland.freefiremobile.com/9f875efc-8dbb-11f1-b0c5-068bedd4bcca_10060154_66482_MAP_COVER",
-      "category": [
-        "home",
-        "trending",
-        "gaming"
-      ],
+      "category": ["home", "trending", "gaming"],
       "description": "VKG Bermuda MAX | Battle Royale Experience",
       "servers": {
         "ind": "#Q31C80",
@@ -71,10 +60,7 @@
     {
       "title": "Funny Lone Wolf",
       "image": "https://dl-live-craftland.freefiremobile.com/5f8c657c-60f2-11f1-8dde-ae91e24c55f5_10060154_35924_MAP_COVER",
-      "category": [
-        "home",
-        "trending"
-      ],
+      "category": ["home", "trending"],
       "description": "Fun and chaotic 2v2 Lone Wolf battles packed with surprises and laughs.",
       "servers": {
         "ind": "#T17E90",
@@ -91,15 +77,10 @@
       "isUpdate": false
     },
     {
-      "title": "VKG Old Training Ground ",
+      "title": "VKG Old Training Ground",
       "image": "https://raw.githubusercontent.com/vkgkingarmy/UGC-Assets/refs/heads/main/Map%20Code%20Website/VKG%20OLD%20TR.JPEG",
-      "category": [
-        "home",
-        "IDK",
-        "gaming"
-      ],
-      "description": "**Relive the Classic Free Fire Training Ground! 🎯🔥 Practice aim, test weapons, improve movement, and enjoy the old-school Training Ground vibes.**
-",
+      "category": ["home", "idk", "gaming"],
+      "description": "**Relive the Classic Free Fire Training Ground! 🎯🔥 Practice aim, test weapons, improve movement, and enjoy the old-school Training Ground vibes.**",
       "servers": {
         "ind": "#X45L70",
         "oth1": "#4G60D3",
@@ -117,11 +98,7 @@
     {
       "title": "VKG Old Bermuda 2",
       "image": "https://raw.githubusercontent.com/vkgkingarmy/UGC-Assets/refs/heads/main/Map%20Code%20Website/VKG%20Old%20Bermuda%202.png",
-      "category": [
-        "home",
-        "trending",
-        "gaming"
-      ],
+      "category": ["home", "trending", "gaming"],
       "description": "Old Bermuda Battle Royale",
       "servers": {
         "ind": "#T00U90",
@@ -140,10 +117,7 @@
     {
       "title": "Right or Wrong Door V2",
       "image": "https://dl-live-craftland.freefiremobile.com/c6123cbe-7ec9-11f1-b02b-221b17861592_10060154_36287_MAP_COVER",
-      "category": [
-        "home",
-        "idk"
-      ],
+      "category": ["home", "idk"],
       "description": "New Version of the Challenge Door Game with updated questions and OB54 content",
       "servers": {
         "ind": "#Q05N40",
@@ -162,10 +136,7 @@
     {
       "title": "ONETAP MAP 2V2",
       "image": "https://raw.githubusercontent.com/vkgkingarmy/UGC-Assets/refs/heads/main/Map%20Code%20Website/ONE%20TAP.png",
-      "category": [
-        "home",
-        "idk"
-      ],
+      "category": ["home", "idk"],
       "description": "One Tap Arena",
       "servers": {
         "ind": "#T16I10",
@@ -184,10 +155,7 @@
     {
       "title": "VKG Bermuda 2",
       "image": "https://dl-live-craftland.freefiremobile.com/8f80b2f4-755d-11f1-9973-1e9e3a36cae6_10060154_65736_MAP_COVER",
-      "category": [
-        "home",
-        "gaming"
-      ],
+      "category": ["home", "gaming"],
       "description": "Bermuda Battle Royale",
       "servers": {
         "ind": "#Q27Y00",
@@ -206,10 +174,7 @@
     {
       "title": "Right or Wrong Door",
       "image": "https://dl-live-craftland.freefiremobile.com/273d40a8-1c6c-11f1-8455-1ab74844d370_10060154_34926_MAP_COVER",
-      "category": [
-        "home",
-        "trending"
-      ],
+      "category": ["home", "trending"],
       "description": "Challenge Door Game",
       "servers": {
         "ind": "#T17E90",
@@ -228,10 +193,7 @@
     {
       "title": "VKG Solara",
       "image": "https://dl-live-craftland.freefiremobile.com/8e4935ea-7559-11f1-b44d-1e9e3a36cae6_10060154_36263_MAP_COVER",
-      "category": [
-        "home",
-        "gaming"
-      ],
+      "category": ["home", "gaming"],
       "description": "Solara Open World Map",
       "servers": {
         "ind": "#V06B00",
@@ -250,10 +212,7 @@
     {
       "title": "VKG Kalahari",
       "image": "https://dl-live-craftland.freefiremobile.com/4d992fa8-755b-11f1-992f-fed28a6184b4_10060154_65977_MAP_COVER",
-      "category": [
-        "home",
-        "gaming"
-      ],
+      "category": ["home", "gaming"],
       "description": "Kalahari Desert Map",
       "servers": {
         "ind": "#T27E10",
@@ -272,10 +231,7 @@
     {
       "title": "VKG NeXTerra",
       "image": "https://dl-live-craftland.freefiremobile.com/270d8e22-7558-11f1-a4a8-fed28a6184b4_10060154_36262_MAP_COVER",
-      "category": [
-        "home",
-        "gaming"
-      ],
+      "category": ["home", "gaming"],
       "description": "NeXTerra Future Map",
       "servers": {
         "ind": "#T09L90",
@@ -304,7 +260,7 @@
       "live": false
     },
     {
-      "title": " Free Fire Advance Server OB54 Live",
+      "title": "Free Fire Advance Server OB54 Live",
       "id": "yVmz0MJG9Z4",
       "live": true
     },
