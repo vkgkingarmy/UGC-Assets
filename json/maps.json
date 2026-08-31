@@ -154,13 +154,13 @@
     },
     {
       "title": "VKG ADMIN Test",
-      "image": "https://raw.githubusercontent.com/vkgkingarmy/UGC-Assets/refs/heads/main/Map%20Code%20Website/ONE%20TAP.png",
+      "image": "https://raw.githubusercontent.com/vkgkingarmy/UGC-Assets/refs/heads/main/Map%20Code%20Website/VKG%20ADMIN.png",
       "category": ["home", "idk"],
-      "description": "One Tap Arena",
+      "description": "All Features Unlocked! Explore, test, and enjoy everything this map has to offer. Available only in India. 🎯⚡",
       "servers": {
-        "ind": "#T16I10",
-        "oth1": "#S39T03",
-        "oth2": "#B37N00"
+        "ind": "#6A06B0",
+        "oth1": "Available only in India",
+        "oth2": "Available only in India"
       },
       "links": {
         "youtube": "https://youtube.com/@VKG_CRAFTLAND",
