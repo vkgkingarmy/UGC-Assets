@@ -153,6 +153,25 @@
       "isUpdate": true
     },
     {
+      "title": "VKG ADMIN Test",
+      "image": "https://raw.githubusercontent.com/vkgkingarmy/UGC-Assets/refs/heads/main/Map%20Code%20Website/ONE%20TAP.png",
+      "category": ["home", "idk"],
+      "description": "One Tap Arena",
+      "servers": {
+        "ind": "#T16I10",
+        "oth1": "#S39T03",
+        "oth2": "#B37N00"
+      },
+      "links": {
+        "youtube": "https://youtube.com/@VKG_CRAFTLAND",
+        "video": "https://youtu.be/4GQkznpTnLU",
+        "discord": "https://discord.gg/YgBmK4gCvs",
+        "telegram": "https://t.me/VKG_CRAFTLAND"
+      },
+      "isNew": false,
+      "isUpdate": true
+    },
+    {
       "title": "VKG Bermuda 2",
       "image": "https://dl-live-craftland.freefiremobile.com/8f80b2f4-755d-11f1-9973-1e9e3a36cae6_10060154_65736_MAP_COVER",
       "category": ["home", "gaming"],
