@@ -69,6 +69,52 @@
       "isUpdate": false
     },
     {
+      "title": "Funny Lone Wolf",
+      "image": "https://dl-live-craftland.freefiremobile.com/5f8c657c-60f2-11f1-8dde-ae91e24c55f5_10060154_35924_MAP_COVER",
+      "category": [
+        "home",
+        "trending"
+      ],
+      "description": "Fun and chaotic 2v2 Lone Wolf battles packed with surprises and laughs.",
+      "servers": {
+        "ind": "#T17E90",
+        "oth1": "#9B38I3",
+        "oth2": "#J11L40"
+      },
+      "links": {
+        "youtube": "https://youtube.com/@VKG_CRAFTLAND",
+        "video": "https://youtube.com/shorts/h9PnLR2LLHM?feature=share",
+        "discord": "https://discord.gg/YgBmK4gCvs",
+        "telegram": "https://t.me/VKG_CRAFTLAND"
+      },
+      "isNew": false,
+      "isUpdate": false
+    },
+    {
+      "title": "VKG Old Training Ground ",
+      "image": "https://raw.githubusercontent.com/vkgkingarmy/UGC-Assets/refs/heads/main/Map%20Code%20Website/VKG%20OLD%20TR.JPEG",
+      "category": [
+        "home",
+        "IDK",
+        "gaming"
+      ],
+      "description": "**Relive the Classic Free Fire Training Ground! 🎯🔥 Practice aim, test weapons, improve movement, and enjoy the old-school Training Ground vibes.**
+",
+      "servers": {
+        "ind": "#X45L70",
+        "oth1": "#4G60D3",
+        "oth2": "#2C66P0"
+      },
+      "links": {
+        "youtube": "https://youtube.com/@VKG_CRAFTLAND",
+        "video": "https://youtube.com/shorts/nsQgVUZnQ8M",
+        "discord": "https://discord.gg/YgBmK4gCvs",
+        "telegram": "https://t.me/VKG_CRAFTLAND"
+      },
+      "isNew": true,
+      "isUpdate": false
+    },
+    {
       "title": "VKG Old Bermuda 2",
       "image": "https://raw.githubusercontent.com/vkgkingarmy/UGC-Assets/refs/heads/main/Map%20Code%20Website/VKG%20Old%20Bermuda%202.png",
       "category": [
