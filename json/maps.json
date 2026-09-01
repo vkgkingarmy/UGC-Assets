@@ -58,14 +58,14 @@
       "isUpdate": false
     },
     {
-      "title": "Funny Lone Wolf",
-      "image": "https://dl-live-craftland.freefiremobile.com/5f8c657c-60f2-11f1-8dde-ae91e24c55f5_10060154_35924_MAP_COVER",
-      "category": ["home", "trending"],
-      "description": "Fun and chaotic 2v2 Lone Wolf battles packed with surprises and laughs.",
+      "title": "VKG Old Bermuda",
+      "image": "https://raw.githubusercontent.com/vkgkingarmy/UGC-Assets/refs/heads/main/Map%20Code%20Website/VKG%20OLD%20BR.JPEG",
+      "category": ["home", "gaming" ,"trending"],
+      "description": "Old Bermuda Battle Royale.",
       "servers": {
-        "ind": "#T17E90",
-        "oth1": "#9B38I3",
-        "oth2": "#J11L40"
+        "ind": "#6A11D0",
+        "oth1": "#E00W33",
+        "oth2": "#N00O70"
       },
       "links": {
         "youtube": "https://youtube.com/@VKG_CRAFTLAND",
