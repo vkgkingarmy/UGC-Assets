@@ -21,7 +21,7 @@
     },
     {
       "title": "Funny Lone Wolf",
-      "image": "https://dl-live-craftland.freefiremobile.com/5f8c657c-60f2-11f1-8dde-ae91e24c55f5_10060154_35924_MAP_COVER",
+      "image": "https://raw.githubusercontent.com/vkgkingarmy/UGC-Assets/refs/heads/main/Map%20Code%20Website/FUNNY%20LW.png",
       "category": ["home", "trending"],
       "description": "Fun and chaotic 2v2 Lone Wolf battles packed with surprises and laughs.",
       "servers": {
@@ -36,7 +36,7 @@
         "telegram": "https://t.me/VKG_CRAFTLAND"
       },
       "isNew": false,
-      "isUpdate": false
+      "isUpdate": true
     },
     {
       "title": "VKG Bermuda MAX",
