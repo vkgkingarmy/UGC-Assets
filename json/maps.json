@@ -36,7 +36,7 @@
         "telegram": "https://t.me/VKG_CRAFTLAND"
       },
       "isNew": false,
-      "isUpdate": true
+      "isUpdate": false
     },
     {
       "title": "VKG Bermuda MAX",
@@ -54,7 +54,7 @@
         "discord": "https://discord.gg/YgBmK4gCvs",
         "telegram": "https://t.me/VKG_CRAFTLAND"
       },
-      "isNew": true,
+      "isNew": false,
       "isUpdate": false
     },
     {
@@ -92,7 +92,7 @@
         "discord": "https://discord.gg/YgBmK4gCvs",
         "telegram": "https://t.me/VKG_CRAFTLAND"
       },
-      "isNew": true,
+      "isNew": false,
       "isUpdate": false
     },
     {
@@ -112,7 +112,7 @@
         "telegram": "https://t.me/VKG_CRAFTLAND"
       },
       "isNew": false,
-      "isUpdate": true
+      "isUpdate": false
     },
     {
       "title": "Right or Wrong Door V2",
@@ -150,7 +150,7 @@
         "telegram": "https://t.me/VKG_CRAFTLAND"
       },
       "isNew": false,
-      "isUpdate": true
+      "isUpdate": false
     },
     {
       "title": "VKG ADMIN Test",
@@ -173,7 +173,7 @@
     },
     {
       "title": "VKG Bermuda 2",
-      "image": "https://dl-live-craftland.freefiremobile.com/8f80b2f4-755d-11f1-9973-1e9e3a36cae6_10060154_65736_MAP_COVER",
+      "image": "https://raw.githubusercontent.com/vkgkingarmy/UGC-Assets/refs/heads/main/Map%20Code%20Website%20Img/OB55/VKG%20BR%202.jpeg",
       "category": ["home", "gaming"],
       "description": "Bermuda Battle Royale",
       "servers": {
@@ -188,7 +188,7 @@
         "telegram": "https://t.me/VKG_CRAFTLAND"
       },
       "isNew": false,
-      "isUpdate": false
+      "isUpdate": true
     },
     {
       "title": "Right or Wrong Door",
