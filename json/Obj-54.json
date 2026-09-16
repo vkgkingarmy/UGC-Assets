@@ -1,20 +1,5 @@
 [
   {
-    "namex": "WS_EMPTY",
-    "idx": 10000,
-    "objectx": "VFX"
-  },
-  {
-    "namex": "WS_EMPTY",
-    "idx": 10001,
-    "objectx": "VFX"
-  },
-  {
-    "namex": "WS_EMPTY",
-    "idx": 10002,
-    "objectx": "VFX"
-  },
-  {
     "name": "WS_Wooden_box_v1_LD1square",
     "id": 1,
     "object": "Props"
