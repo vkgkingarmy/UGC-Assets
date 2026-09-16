@@ -1,18 +1,18 @@
 [
   {
-    "name": "WS_EMPTY",
-    "id": 10000,
-    "object": "VFX"
+    "namex": "WS_EMPTY",
+    "idx": 10000,
+    "objectx": "VFX"
   },
   {
-    "name": "WS_EMPTY",
-    "id": 10001,
-    "object": "VFX"
+    "namex": "WS_EMPTY",
+    "idx": 10001,
+    "objectx": "VFX"
   },
   {
-    "name": "WS_EMPTY",
-    "id": 10002,
-    "object": "VFX"
+    "namex": "WS_EMPTY",
+    "idx": 10002,
+    "objectx": "VFX"
   },
   {
     "name": "WS_Wooden_box_v1_LD1square",
