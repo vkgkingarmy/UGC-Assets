@@ -2,7 +2,7 @@
   "maps": [
     {
       "title": "VKG Lone Wolf",
-      "image": "https://dl-live-craftland.freefiremobile.com/5d182060-6d7c-11f1-9f48-ea1e8ecb6413_10060154_65829_MAP_COVER",
+      "image": "https://raw.githubusercontent.com/vkgkingarmy/UGC-Assets/refs/heads/main/Map-Code-Website-Imgs/OB54/VKG-LW.jpg",
       "category": ["home", "idk", "gaming"],
       "description": "VKG Lone Wolf Arena",
       "servers": {
@@ -21,7 +21,7 @@
     },
     {
       "title": "Funny Lone Wolf",
-      "image": "https://raw.githubusercontent.com/vkgkingarmy/UGC-Assets/refs/heads/main/Map%20Code%20Website%20Img/OB54/F-LW.png",
+      "image": "https://raw.githubusercontent.com/vkgkingarmy/UGC-Assets/refs/heads/main/Map-Code-Website-Imgs/OB54/F-LW.png",
       "category": ["home", "trending"],
       "description": "Fun and chaotic 2v2 Lone Wolf battles packed with surprises and laughs.",
       "servers": {
@@ -40,7 +40,7 @@
     },
     {
       "title": "VKG Bermuda MAX",
-      "image": "https://dl-live-craftland.freefiremobile.com/9f875efc-8dbb-11f1-b0c5-068bedd4bcca_10060154_66482_MAP_COVER",
+      "image": "https://raw.githubusercontent.com/vkgkingarmy/UGC-Assets/refs/heads/main/Map-Code-Website-Imgs/OB54/VKG-BA-MAX.jpg",
       "category": ["home", "trending", "gaming"],
       "description": "VKG Bermuda MAX | Battle Royale Experience",
       "servers": {
@@ -59,7 +59,7 @@
     },
     {
       "title": "VKG Old Bermuda",
-      "image": "https://raw.githubusercontent.com/vkgkingarmy/UGC-Assets/refs/heads/main/Map%20Code%20Website%20Img/OB54/VKG-OLD-BA.jpg",
+      "image": "https://raw.githubusercontent.com/vkgkingarmy/UGC-Assets/refs/heads/main/Map-Code-Website-Imgs/OB54/VKG-OLD-BA.jpg",
       "category": ["home", "gaming" ,"trending"],
       "description": "Old Bermuda Battle Royale.",
       "servers": {
@@ -69,7 +69,7 @@
       },
       "links": {
         "youtube": "https://youtube.com/@VKG_CRAFTLAND",
-        "video": "https://youtube.com/shorts/h9PnLR2LLHM?feature=share",
+        "video": "https://www.youtube.com/shorts/U-LaqR2Zgzk",
         "discord": "https://discord.gg/YgBmK4gCvs",
         "telegram": "https://t.me/VKG_CRAFTLAND"
       },
@@ -78,7 +78,7 @@
     },
     {
       "title": "VKG Old Training Ground",
-      "image": "https://raw.githubusercontent.com/vkgkingarmy/UGC-Assets/refs/heads/main/Map%20Code%20Website%20Img/OB54/VKG-OLD-TG.jpg",
+      "image": "https://raw.githubusercontent.com/vkgkingarmy/UGC-Assets/refs/heads/main/Map-Code-Website-Imgs/OB54/VKG-OLD-TG.jpg",
       "category": ["home", "idk", "gaming"],
       "description": "Relive the Classic Free Fire Training Ground! 🎯🔥 and enjoy the old-school Training Ground vibes.",
       "servers": {
@@ -97,7 +97,7 @@
     },
     {
       "title": "VKG Old Bermuda 2",
-      "image": "https://raw.githubusercontent.com/vkgkingarmy/UGC-Assets/refs/heads/main/Map%20Code%20Website%20Img/OB54/VKG-OLD-BA2.png",
+      "image": "https://raw.githubusercontent.com/vkgkingarmy/UGC-Assets/refs/heads/main/Map-Code-Website-Imgs/OB54/VKG-OLD-BA2.png",
       "category": ["home", "trending", "gaming"],
       "description": "Old Bermuda Battle Royale",
       "servers": {
@@ -116,7 +116,7 @@
     },
     {
       "title": "Right or Wrong Door V2",
-      "image": "https://dl-live-craftland.freefiremobile.com/c6123cbe-7ec9-11f1-b02b-221b17861592_10060154_36287_MAP_COVER",
+      "image": "https://raw.githubusercontent.com/vkgkingarmy/UGC-Assets/refs/heads/main/Map-Code-Website-Imgs/OB54/R-W-DOOR.jpg",
       "category": ["home", "idk"],
       "description": "New Version of the Challenge Door Game with updated questions and OB54 content",
       "servers": {
@@ -126,7 +126,7 @@
       },
       "links": {
         "youtube": "https://youtube.com/@VKG_CRAFTLAND",
-        "video": "https://youtu.be/4GQkznpTnLU",
+        "video": "https://www.youtube.com/shorts/ZPRUvEgIPps",
         "discord": "https://discord.gg/YgBmK4gCvs",
         "telegram": "https://t.me/VKG_CRAFTLAND"
       },
@@ -135,7 +135,7 @@
     },
     {
       "title": "ONETAP MAP 2V2",
-      "image": "https://raw.githubusercontent.com/vkgkingarmy/UGC-Assets/refs/heads/main/Map%20Code%20Website%20Img/OB54/OTP-2V2.png",
+      "image": "https://raw.githubusercontent.com/vkgkingarmy/UGC-Assets/refs/heads/main/Map-Code-Website-Imgs/OB54/OTP-2V2.png",
       "category": ["home", "idk"],
       "description": "One Tap Arena",
       "servers": {
@@ -173,7 +173,7 @@
     },
     {
       "title": "VKG Bermuda 2",
-      "image": "https://raw.githubusercontent.com/vkgkingarmy/UGC-Assets/refs/heads/main/Map%20Code%20Website%20Img/OB55/VKG%20BR%202.jpeg",
+      "image": "https://raw.githubusercontent.com/vkgkingarmy/UGC-Assets/refs/heads/main/Map-Code-Website-Imgs/OB55/VKG%20BR%202.jpeg",
       "category": ["home", "gaming"],
       "description": "Bermuda Battle Royale",
       "servers": {
@@ -192,7 +192,7 @@
     },
     {
       "title": "Invisible War",
-      "image": "https://raw.githubusercontent.com/vkgkingarmy/UGC-Assets/refs/heads/main/Map%20Code%20Website%20Img/OB55/IW-55.png",
+      "image": "https://raw.githubusercontent.com/vkgkingarmy/UGC-Assets/refs/heads/main/Map-Code-Website-Imgs/OB55/IW-55.png",
       "category": ["home", "trending"],
       "description": "Invisible War Game",
       "servers": {
